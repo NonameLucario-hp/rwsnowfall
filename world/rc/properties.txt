@@ -1,0 +1,13 @@
+batDepleteCyclesMin: 999
+batDepleteCyclesMax: 999
+batsPerActiveSwarmRoom: 8
+overseersSpawnChance: 0.8
+overseersMin: 0
+overseersMax: 4
+playerGuideOverseerSpawnChance: 1.0
+Room_Attr: RC_A0: Overseer-Like,
+Room_Attr: RC_A1: Overseer-Stay,
+Room_Attr: RC_S1: Overseer-Forbidden,
+Room_Attr: RC_D1: Overseer-Stay,
+Room_Attr: RC_D2: Overseer-Stay,
+Room_Attr: RC_DD: Overseer-Stay,

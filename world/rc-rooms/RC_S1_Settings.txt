@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.4260292
+WaveLength: 0.9630146
+WaveAmplitude: 1.109391E-12
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.3586957
+Palette: 31
+AmbientSounds: OMNI><AM_ENV-LushNight.ogg><793.4105><501.3694><0.2391304><1, OMNI><AM_ENV-Outside.ogg><726.3838><475.5872><0.2173913><1, 
+FadePalette: 30, 0.2717391

@@ -1,0 +1,16 @@
+{
+  "id": "Lost",
+  "name": "The Lost",
+  "description": "This is the description of The Lost, and will appear on the main menu.<LINE>This will appear on line 2."
+  "features": {
+    "color": "19599E",
+    "custom_colors": [
+      { "name": "Body", "story": "19599E" },
+      { "name": "Eyes", "story": "FFFFFF" }
+    ],
+	"food_min": 3,
+	"food_max": 5,
+    "start_room": "RC_S1",
+    "select_menu_scene": "Slugcat_Lost"
+  }
+}

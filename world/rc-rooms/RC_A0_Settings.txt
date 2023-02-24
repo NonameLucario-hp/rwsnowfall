@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.5023533
+WaveLength: 0.9988233
+WaveAmplitude: 0.04287393
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.3586957
+Palette: 12
+PlacedObjects: SnowSource><438.443><380.9476><None~716~330~50~86.60254~0.2826087~0, 
+AmbientSounds: OMNI><AM_ENV-LushNight.ogg><793.4105><501.3694><0.2391304><1, OMNI><AM_ENV-Outside.ogg><726.3838><475.5872><0.2173913><1, 
+FadePalette: 30, 0.2717391

@@ -1,0 +1,9 @@
+{
+	"id": "rwsnowfall",
+	"name": "Rain World Snowfall",
+	"authors": "-hp",
+	"description": "",
+	"requirements": ["slime-cubed.slugbase"],
+	"requirements_names": ["SlugBase"],
+	"checksum_override_version": false
+}
