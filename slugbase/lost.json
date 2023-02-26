@@ -1,7 +1,7 @@
 {
   "id": "Lost",
   "name": "The Lost",
-  "description": "This is the description of The Lost, and will appear on the main menu.<LINE>This will appear on line 2."
+  "description": "This is the description of The Lost, and will appear on the main menu.<LINE>This will appear on line 2.",
   "features": {
     "color": "19599E",
     "custom_colors": [
