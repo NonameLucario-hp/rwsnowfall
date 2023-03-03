@@ -1,12 +1,13 @@
 Template: NONE
 DangerType: None
-WaveSpeed: 0.2512369
-WaveLength: 0.8756185
-WaveAmplitude: 7.804492E-06
+WaveSpeed: 0.5022129
+WaveLength: 0.9988936
+WaveAmplitude: 5.068464E-06
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Grime: 0.3586957
 Palette: 12
 PlacedObjects: SnowSource><839.665><295.887><Radial~295~91~50~86.60254~1~1, 
 AmbientSounds: OMNI><AM_ENV-LushNight.ogg><793.4105><501.3694><0.2391304><1, OMNI><AM_ENV-Outside.ogg><726.3838><475.5872><0.2173913><1, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>RW_Intro_Theme<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>1<eA>droneTol<eB>0<eA>rooms<eB>3<eA>rest<eB>5<eA>fadeIn<eB>202.1739<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>1<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>568.8527<tB>431.6353<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB>, 
 FadePalette: 10, 0.4347826

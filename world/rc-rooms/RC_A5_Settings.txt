@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: AerieBlizzard
+CeilingDrips: 0.3484945
+RainIntensity: 1
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04999999
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 0.5108696
+WaterReflectionAlpha: 1
+Palette: 12
+Effects: DustWave-0-20-20, 
+PlacedObjects: LightBeam><3199.505><389.3726><11.94733~200~89.7804~202~101.7277~-2~329~211~0.551505~0~0~1~None~0~0, PlacedWind><159.9287><237.0896><3~237~3550~212~3596~-61~-0.2391304~Creatures~Horizontal, LocalBlizzard><3604.101><316.8831><-1070~-60~50~86.60254~1~0.5~0, PlacedWind><2672.444><244.4532><-106~123~1064~317~1055~-7~-0.4565217~Creatures~Horizontal, SnowSource><2647.572><219.6867><Radial~916~127~50~86.60254~0.4782609~1, SnowSource><1656.563><236.1805><Radial~717~212~50~86.60254~1~1, SnowSource><219.1414><243.418><Radial~773~47~50~86.60254~1~0, SnowSource><3568.338><173.8669><Radial~169~40~50~86.60254~1~0, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><808.3168><515.3115><0.3586957><1, 

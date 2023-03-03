@@ -1,11 +1,13 @@
 Template: NONE
 DangerType: Blizzard
-WaveSpeed: 0.7391126
-WaveLength: 0.8804437
-WaveAmplitude: 2.602377E-05
+WaveSpeed: 0.617969
+WaveLength: 0.9410155
+WaveAmplitude: 1.202107E-06
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 1
 Grime: 0.3586957
 Palette: 12
+PlacedObjects: SnowSource><444.9448><147.8078><Radial~88~236~50~86.60254~1~1, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.4082><514.6277><0.25><1, 
 FadePalette: 10, 0.4021739
